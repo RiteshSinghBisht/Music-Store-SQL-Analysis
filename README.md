@@ -4,7 +4,7 @@
 Comprehensive SQL analysis of a music store database containing 11 interrelated tables with customer, employee, invoice, and music catalog data. This project demonstrates advanced SQL techniques to extract business insights about customer behavior, sales performance, and music preferences.
 
 ## 🗂️ Database Schema
-![Database Schema](schema_diagram.jpg)
+![Database Schema](schema_diagram.png)
 
 The database consists of **11 interconnected tables**:
 - **Employee**: Employee information and hierarchy
